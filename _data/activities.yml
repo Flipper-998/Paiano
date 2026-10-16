@@ -12,7 +12,7 @@
 - section: "Organization"
   items:
     - { when: "2025–2026", text: "*Regularity theory for varifolds with bounded mean curvature*, reading course based on L. Simon's *Introduction to Geometric Measure Theory*" }
-    - { when: "Jan 2026", text: "*Regularity and geometric aspects of nonlinear PDEs II*, Pisa (January 26–28), with G. Siclari and B. Velichkov" }
+    - { when: "Jan 2026", text: "*Regularity and geometric aspects of nonlinear PDEs II*, Pisa (January 26–28), with M. G. Ghimenti, G. Siclari and B. Velichkov" }
     - { when: "Dec 2025", text: "*Workshop Calculus of Variations and Free Boundary Problems: the VAREG edition*, Pisa (December 9), with G. Bevilacqua and B. Velichkov" }
     - { when: "2023–", text: "*Seminari MAP*, undergraduate seminars in Mathematical Analysis and Probability, co-organized with PhD students of the University of Pisa and the Scuola Normale Superiore" }
 - section: "Teaching"
